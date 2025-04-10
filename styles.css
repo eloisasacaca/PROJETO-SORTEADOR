@@ -88,3 +88,34 @@ p{
     font-weight: 400;
     color: rgb(52, 54, 116);
 }
+
+@media screen and (max-width:1000px){
+    body{
+        display: block;
+    }
+
+    .conteiner1{
+        height: 20vh;
+        width: 100vw;
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    h1{
+        font-size: 35px;
+    }
+
+    p{
+        font-size: 16px;
+    }
+    .conteiner2{
+        height: 60vh;
+        width: 100vw;
+        margin: 0;
+        padding-top: 30px;
+    }
+
+
+    
+
+}
