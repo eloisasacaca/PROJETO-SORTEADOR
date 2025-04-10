@@ -108,7 +108,7 @@ p{
     }
 
     p{
-        font-size: 16px;
+        font-size: 18px;
     }
     .conteiner2{
         height: 60vh;
@@ -129,16 +129,25 @@ p{
 
     input{
         width: 70vw;
-        margin: 35px auto;
     }
 
     #inicial{
         margin: 30px auto;
     }
+    
+    #final{
+        margin: 15px auto;
+    }
+
 
     button{
         margin: 5px auto 20px;
         width: 70vw;
+    }
+
+    .result{
+        margin: 10px auto 20px;
+        font-size: 25px;
     }
 
 }
