@@ -30,7 +30,7 @@ CSS3
 JavaScript
 
 ## 📸 Captura de Tela
-<!-- Adicione uma imagem chamada "screenshot.png" ao repositório para ela aparecer aqui --> <p align="center"> <img src="screenshot.png" alt="Screenshot do Projeto" width="600px"> </p>
+<p align="center"> <img src="screenshot.png" alt="Screenshot do Projeto" width="600px"> </p>
 
 
 ## 🎯 Objetivo
