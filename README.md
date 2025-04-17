@@ -23,14 +23,16 @@ Este projeto foi desenvolvido para realizar sorteios aleatórios de números de 
   💡 O projeto é 100% front-end e não requer instalação de dependências. Basta abrir e usar!
 
 ## 💻 Tecnologias utilizadas
-HTML5
 
-CSS3
 
-JavaScript
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
 
 ## 📸 Captura de Tela
-<p align="center"> <img src="screenshot.png" alt="Screenshot do Projeto" width="600px"> </p>
+<p align="center"> <img src="https://github.com/eloisasacaca/PROJETO-SORTEADOR/blob/main/assets/screenshot.png?raw=true" alt="Screenshot do Projeto" width="800px"> </p>
 
 
 ## 🎯 Objetivo
